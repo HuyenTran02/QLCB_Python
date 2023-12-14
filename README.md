@@ -1,1 +1,1 @@
-# QLCB_Python
+SỬ DUNG NGÔN NGỮ PYTHON
